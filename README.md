@@ -1,1 +1,1 @@
-# test-fl
+To improve the code, I refactored it by moving the constants to the global scope to prevent redundant declarations and to make the main function more readable. I also simplified the code by reducing the number of if-else statements that can be difficult to maintain. Moreover, I created a new function to handle hash creation, which aligns with the Single Responsibility Principle.
